@@ -1,0 +1,79 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.1 (win64) Build 3865809 Sun May  7 15:05:29 MDT 2023
+| Date         : Mon Dec  4 01:48:50 2023
+| Host         : DESKTOP-O5QFQV1 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_ModeFilter_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_ModeFilter_0_0 (xilinx.com:hls:ModeFilter:1.0) from (Rev. 2113323337) to (Rev. 2113323345)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.1 (win64) Build 3865809 Sun May  7 15:05:29 MDT 2023
+| Date         : Mon Dec  4 01:18:20 2023
+| Host         : DESKTOP-O5QFQV1 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_QuantizationDithering_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_QuantizationDithering_0_0 (xilinx.com:hls:QuantizationDithering:1.0) from (Rev. 2113323293) to (Rev. 2113323312)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.1 (win64) Build 3865809 Sun May  7 15:05:29 MDT 2023
+| Date         : Mon Dec  4 00:57:30 2023
+| Host         : DESKTOP-O5QFQV1 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_QuantizationDithering_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_QuantizationDithering_0_0 (xilinx.com:hls:QuantizationDithering:1.0) from (Rev. 2113323273) to (Rev. 2113323293)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.1 (win64) Build 3865809 Sun May  7 15:05:29 MDT 2023
+| Date         : Mon Dec  4 00:37:03 2023
+| Host         : DESKTOP-O5QFQV1 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_QuantizationDithering_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_QuantizationDithering_0_0 (xilinx.com:hls:QuantizationDithering:1.0) from (Rev. 2113323252) to (Rev. 2113323273)
+
